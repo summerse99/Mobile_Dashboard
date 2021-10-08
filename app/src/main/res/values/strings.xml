@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dashboard-Design</string>
+    <string name = "Settings"/>
+    <string-array name = "mainMenu" >
+        <item> Settings</item>
+        <item> View Account </item>
+        <item> Edit Account </item>
+        <item> Report Activity </item>
+        <item> Delete Account </item>
+        <item> About Our Company </item>
+    </string-array>
+
+</resources>
